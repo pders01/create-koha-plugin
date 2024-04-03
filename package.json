@@ -1,0 +1,15 @@
+{
+  "name": "koha-plugin",
+  "version": "0.0.1",
+  "description": "The base for a new koha-plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "koha-plugin": "./index.js"
+  },
+  "keywords": ["koha", "koha-plugin"],
+  "author": "Paul Derscheid <paulderscheid@gmail.com",
+  "license": "ISC"
+}
